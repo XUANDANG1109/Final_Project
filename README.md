@@ -1,5 +1,5 @@
 # FINAL PROJECT
-## Covertor
+## Convertor
 ## ASSIGNMENT 5 - GROUP 1
 ### Date 04/04/2022
 ### Member:
